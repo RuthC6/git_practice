@@ -1,14 +1,16 @@
 # First Page! 
 
+##Smaller Text for First Page.
+
 Testing out github pages
 
 **bold**
 
 *Italic*
 
->blockqoute
+>blockquote 
 >
->blockqoute contd.
+>blockquote contd.
 
 ________________________
 
